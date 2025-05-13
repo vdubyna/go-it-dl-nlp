@@ -1,0 +1,15 @@
+names:
+- door
+- cabinetDoor
+- refrigeratorDoor
+- window
+- chair
+- table
+- cabinet
+- couch
+- openedDoor
+- pole
+nc: 10
+test: /Users/vdubyna/.cache/kagglehub/datasets/thepbordin/indoor-object-detection/versions/1/test
+train: /Users/vdubyna/.cache/kagglehub/datasets/thepbordin/indoor-object-detection/versions/1/train
+val: /Users/vdubyna/.cache/kagglehub/datasets/thepbordin/indoor-object-detection/versions/1/valid
